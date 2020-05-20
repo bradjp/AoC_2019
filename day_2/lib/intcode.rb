@@ -1,3 +1,3 @@
 def intcode(*ints)
-  ints
+  ints.join(',')
 end
